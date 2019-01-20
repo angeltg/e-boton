@@ -1,0 +1,24 @@
+{
+  "name": "e-boton",
+  "version": "1.0.0",
+  "description": "Site para vender e-boton",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+"start": "browser-sync start --server 'www' --files 'www'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeltg/e-boton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeltg/e-boton/issues"
+  },
+  "homepage": "https://github.com/angeltg/e-boton#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
